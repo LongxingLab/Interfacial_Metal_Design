@@ -1,0 +1,2498 @@
+{
+    "Zn_Cluster0000": {
+        "avg_dist": 0.26336172223091125,
+        "max_dist": 0.5861098170280457,
+        "center_xform": "-0.18379921839270041_-0.9192174066645353_0.3482200548549137_-0.8885128035577724_0.30688553481194897_0.34112500119031314_-0.4204317367089925_-0.24669946860119174_-0.8731417565090736_11.657055060454866_4.289266672411031_-1.7322851181216663",
+        "center_match": "new_UM_100_H32D6_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_100_H32D6_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_100_H32D6_21_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_100_H32D6_25_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_100_H32D6_26_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_100_H32D6_32_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            32,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0001": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.4490362619696315_0.892356714131461_-0.045452504670725286_0.41685117353307793_0.25421207353974973_0.8727034552416512_0.7903173631905327_0.3729285674376831_-0.4861303827456595_18.280059773211633_-19.52371548480818_11.694344032739664",
+        "center_match": "new_UM_225_H71D67_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_225_H71D67_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            71,
+            67
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0002": {
+        "avg_dist": 0.001888799131847918,
+        "max_dist": 0.003870998742058873,
+        "center_xform": "0.231338244667454_0.9656749685034479_-0.11812904706314202_0.46200727926102436_-0.002189597959783997_0.8868734292843601_0.8561728157702784_-0.25974422200818875_-0.4466554025972972_5.889864914386635_-19.187417032631686_-9.276291549221384",
+        "center_match": "new_UM_296_H86D82_1_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_296_H86D82_1_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_296_H86D82_2_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_296_H86D82_3_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            86,
+            82
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0003": {
+        "avg_dist": 0.5390365719795227,
+        "max_dist": 1.1599067449569702,
+        "center_xform": "0.6548785730716004_0.11891359566012416_-0.746320046159076_0.701841053315989_-0.46193851771988137_0.5422471223778527_-0.2802734208090512_-0.8789040690621128_-0.38597208056289906_-1.8854276737977784_-8.596871684097891_6.881899791048568",
+        "center_match": "new_UM_149_H48D52_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_149_H48D52_2_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_149_H48D52_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_149_H48D52_4_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_149_H48D52_5_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_149_H48D52_6_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_149_H48D52_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            48,
+            52
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0004": {
+        "avg_dist": 0.37850892543792725,
+        "max_dist": 1.1355043649673462,
+        "center_xform": "-0.17375292363583425_-0.9581445764868154_-0.22752778308791471_0.35168335583290633_-0.2761782509198755_0.8944520059505395_-0.9198525635981591_0.0753959167842633_0.3849502785739415_11.826454334742039_0.08191053218644129_16.11914180510172",
+        "center_match": "new_UM_189_H58D62_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_189_H58D62_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_189_H58D62_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_189_H58D62_23_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            58,
+            62
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0005": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.3784214984476471_0.2698966460250459_0.8854111869504863_-0.9067219509021288_0.08428257513965634_-0.41322118929220725_-0.186151747950094_-0.9591935404245899_0.21282687504839612_21.187892102251794_-8.817242726522721_-2.83215359133618",
+        "center_match": "new_UM_80_H26D30_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_80_H26D30_3_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            26,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0006": {
+        "avg_dist": 0.3831711411476135,
+        "max_dist": 1.438105821609497,
+        "center_xform": "0.4675059361240301_-0.20103163048690903_0.8608277895331736_-0.38540106921645323_-0.9227284636574115_-0.006180469500612764_0.7955527735704334_-0.32887454431775076_-0.5088588395264279_9.933258469316513_-6.0197342496300905_-11.95918060510769",
+        "center_match": "new_UM_117_H37D84_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_117_H37D84_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_117_H37D84_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_117_H37D84_5_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_117_H37D84_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            37,
+            84
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0007": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.47875085655324073_-0.6872995502497604_0.5462755216701694_-0.6115802090361896_-0.707492571264399_-0.35415238178069564_0.6298946461629829_-0.16454054160651702_-0.7590514771101134_22.548070208894558_0.9668204920793642_6.425079064949742",
+        "center_match": "new_UM_54_H17D25_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_54_H17D25_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            17,
+            25
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0008": {
+        "avg_dist": 0.07769396156072617,
+        "max_dist": 0.1538219004869461,
+        "center_xform": "0.6644313666309732_0.42704267721320205_-0.6133233330597154_-0.7061059881959647_0.6275664949844498_-0.3279857128088556_0.24483727753489182_0.6509952735707943_0.7185122555098061_7.71293600574802_-13.848529259352262_13.568851591940359",
+        "center_match": "new_UM_219_H68D56_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_219_H68D56_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_219_H68D56_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_219_H68D56_15_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            68,
+            56
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0009": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7923679281466256_-0.17898837311352614_0.5831948462862113_-0.16263869479742313_-0.8594082808622143_-0.48473297983533536_0.5879640477097344_-0.478936915549038_0.6518571235517483_22.908697297289393_-6.811597594829777_15.10387749378539",
+        "center_match": "new_UM_61_H19D66_21_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_61_H19D66_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            19,
+            66
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0010": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.29190937468808376_0.5642098121970744_-0.7723057715631514_-0.21384003442347202_0.7485345501943736_0.6276690743083294_0.932234603866956_0.34837237976890306_-0.09785360681738266_5.023011545521911_-14.83265952587854_1.082661259545759",
+        "center_match": "new_UM_253_H79D49_9_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_253_H79D49_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            79,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0011": {
+        "avg_dist": 0.5616276860237122,
+        "max_dist": 1.5958476066589355,
+        "center_xform": "-0.7299158409103745_0.4329665850442542_0.528926083137538_-0.6489073227818875_-0.19574488996186135_-0.735257250555112_-0.21480724296015866_-0.8798999228826739_0.4238324835155044_16.484219300256598_-18.16249976567579_-0.9474034636187412",
+        "center_match": "new_UM_230_H74D78_5_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_230_H74D78_4_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_230_H74D78_5_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_230_H74D78_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            74,
+            78
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0012": {
+        "avg_dist": 0.26711469888687134,
+        "max_dist": 0.66786789894104,
+        "center_xform": "0.8280576470308493_-0.45226083976487347_-0.33133165560945865_0.009277370067418618_0.6019577591106041_-0.7984740363037313_0.5605661991222497_0.6581086453327528_0.5026515167985899_1.1206868299399275_-9.157317706271073_-8.818817066682712",
+        "center_match": "new_UM_273_H83D87_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_273_H83D87_17_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_20_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_23_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_25_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            83,
+            87
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0013": {
+        "avg_dist": 0.3580245077610016,
+        "max_dist": 1.0661689043045044,
+        "center_xform": "-0.1290342028364089_-0.9295686077464271_-0.34532937609004777_0.5412955291483772_-0.3578084868834724_0.7609022518288004_-0.8308726283988126_-0.08874283185998376_0.549340864282933_5.346018091981136_7.754175448062199_4.9002785309490235",
+        "center_match": "new_UM_10_H3D7_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_10_H3D7_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_10_H3D7_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_10_H3D7_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            3,
+            7
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0014": {
+        "avg_dist": 0.7152041792869568,
+        "max_dist": 1.6289386749267578,
+        "center_xform": "0.48229799264958373_-0.16618784414213342_-0.8600989749706556_0.8225807763734181_-0.25172426527426794_0.5098977942813983_-0.3012465977020938_-0.9534235652277113_0.01529681801529023_8.653811353150388_-8.203696228930227_21.531776848358888",
+        "center_match": "new_UM_192_H59D63_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_192_H59D63_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_192_H59D63_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_192_H59D63_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_192_H59D63_17_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            59,
+            63
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0015": {
+        "avg_dist": 0.30372029542922974,
+        "max_dist": 0.6074405908584595,
+        "center_xform": "-0.8215188929460865_0.1978330201079942_0.534760511526035_-0.5701802862604484_-0.28327419745915966_-0.7711356367162798_-0.0010722371890954307_-0.9384123961291321_0.3455155931337855_13.931598872366237_-14.310209045743278_-11.99854653391867",
+        "center_match": "new_UM_260_H81D85_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_260_H81D85_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_260_H81D85_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            85
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0016": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.25145600396146356_0.2752595549079989_0.9279019643817893_-0.9491742564419404_-0.11738526603993917_0.2920426856208226_0.18930955860606274_-0.9541765438054862_0.23175205343598315_21.739036515408827_-13.322840139636725_5.564416231322738",
+        "center_match": "new_UM_65_H23D70_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_65_H23D70_11_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            23,
+            70
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0017": {
+        "avg_dist": 0.3741587698459625,
+        "max_dist": 0.8157087564468384,
+        "center_xform": "0.9112979997436923_-0.2579094065734529_-0.32096525304785706_-0.3658211120941655_-0.14938398489077898_-0.9186181682311426_0.18897319812432012_0.954550765050807_-0.2304820325569561_3.5659158756373586_-5.180549567799801_14.061732010796135",
+        "center_match": "new_UM_195_H59D55_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_195_H59D55_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_195_H59D55_1_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_195_H59D55_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            59,
+            55
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0018": {
+        "avg_dist": 0.9915627241134644,
+        "max_dist": 1.9831254482269287,
+        "center_xform": "-0.1080912230728684_-0.9474722464133408_0.30101931793668835_-0.7895676363566081_-0.10216777398637175_-0.6050989122258517_0.6040688993093839_-0.3030809928635037_-0.737049982465248_15.486222969027551_6.728937796839773_5.585941575045581",
+        "center_match": "new_UM_49_H14D10_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_49_H14D10_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_49_H14D10_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            14,
+            10
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0019": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.6534324399081226_-0.7535433841749514_0.07210003219055919_0.22857455888165495_-0.10560901918070074_0.9677811767645348_-0.7216506893974223_0.6488598486837139_0.2412492057155278_18.941492582314254_0.15385973149312804_-2.9278399780655207",
+        "center_match": "new_UM_106_H33D29_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_106_H33D29_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0020": {
+        "avg_dist": 0.18536409735679626,
+        "max_dist": 0.6874527931213379,
+        "center_xform": "0.1692187948798834_0.9789914792676572_0.11375712276918981_-0.5347797805802422_0.1881581158464984_-0.8237761284011843_-0.8278741364132282_0.07856339454491723_0.5553847380830983_11.517615627484304_-19.88116883172009_5.826181008359725",
+        "center_match": "new_UM_224_H71D75_19_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_224_H71D75_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_224_H71D75_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_224_H71D75_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_224_H71D75_19_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            71,
+            75
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0021": {
+        "avg_dist": 0.5271623134613037,
+        "max_dist": 1.0543246269226074,
+        "center_xform": "0.6410532356140954_0.7627506803491014_-0.08521824180116803_-0.42906638288183924_0.2641003848443512_-0.863801496760547_-0.6363590088852316_0.5903070271918239_0.49657308168944986_-1.7339204088801239_-13.589926078346593_-0.2898037279733643",
+        "center_match": "new_UM_158_H49D45_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_158_H49D45_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_158_H49D45_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            49,
+            45
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0022": {
+        "avg_dist": 0.4191974997520447,
+        "max_dist": 0.8029699325561523,
+        "center_xform": "0.0788423686961523_-0.6435751032796279_-0.761311347174726_0.6249544642617626_-0.5630767905944939_0.5407184530724822_-0.7766696842916385_-0.5184164487479355_0.3578108259540314_9.15247524794762_5.190111879724213_11.412098164301355",
+        "center_match": "new_UM_26_H7D11_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_26_H7D11_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_26_H7D11_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_26_H7D11_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_26_H7D11_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            7,
+            11
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0023": {
+        "avg_dist": 0.9949418306350708,
+        "max_dist": 1.9898836612701416,
+        "center_xform": "0.5316808757571587_-0.38362109787498055_-0.7550829753207892_-0.35159660615736094_0.7111106353894591_-0.608852601845985_0.7705162379163247_0.5891998960464895_0.2432040493208931_2.643864563295608_-0.3865887881391359_8.801192264678392",
+        "center_match": "new_UM_179_H55D4_36_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_179_H55D4_36_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_179_H55D4_3_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            55,
+            4
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0024": {
+        "avg_dist": 0.8946771621704102,
+        "max_dist": 1.907753348350525,
+        "center_xform": "-0.05362916521718341_-0.6113316098788841_0.7895553023069382_0.44057227586918746_0.6950862968170727_0.5681118813337498_-0.8961138222198968_0.37832354240784444_0.2320588608229111_15.053308177748704_-7.870371762798868_-5.758507030564687",
+        "center_match": "new_UM_263_H81D30_25_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_25_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_45_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0025": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.22822576723603105_0.1479342783286668_-0.9623037194487518_0.8496222100402577_-0.5129321218267071_0.12264884265520094_-0.4754525206325372_-0.8455862390636028_-0.24275257553821794_18.328534285224634_-2.996602324011718_18.32262629829779",
+        "center_match": "new_UM_50_H15D19_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_50_H15D19_12_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            15,
+            19
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0026": {
+        "avg_dist": 0.21228888630867004,
+        "max_dist": 0.4245777726173401,
+        "center_xform": "-0.5623481805462845_-0.4169013182121271_0.71411330663227_0.6146532054932194_0.3669456540879552_0.6982494711225157_-0.5531418993469881_0.8315913526600389_0.049898510677704476_14.79140633674325_-1.9908790717356908_-9.688674218027842",
+        "center_match": "new_UM_120_H37D33_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_120_H37D33_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_120_H37D33_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            37,
+            33
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0027": {
+        "avg_dist": 0.11223683506250381,
+        "max_dist": 0.27337631583213806,
+        "center_xform": "-0.33318768411821914_0.7418368383207826_0.581948513583601_-0.6483919836619416_0.2678269399595325_-0.7126405585951767_-0.6845245084544966_-0.6147738084386304_0.39176442128272965_11.746157240895286_-20.077069429878406_-6.227081192662084",
+        "center_match": "new_UM_243_H78D82_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_243_H78D82_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_243_H78D82_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_243_H78D82_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            78,
+            82
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0028": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.025482855231924163_0.3792659351705697_-0.9249367408144313_0.3409145051049044_0.8664760552860745_0.36468691479810633_0.9397488623554204_-0.3246176151028722_-0.10721697471303969_25.33033731019276_-10.607852748832642_9.63292259965479",
+        "center_match": "new_UM_67_H23D22_2_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_67_H23D22_2_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            23,
+            22
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0029": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.6325633719738014_0.6855658670272222_-0.36036512373473034_-0.49538359035838564_0.0004691396967546185_-0.8686742072328272_-0.5953643244608882_0.7280104545095201_0.3399148412236107_1.862752314572333_-12.111275144078945_10.474519043802104",
+        "center_match": "new_UM_182_H56D52_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_182_H56D52_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            52
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0030": {
+        "avg_dist": 0.2548235356807709,
+        "max_dist": 0.48776715993881226,
+        "center_xform": "0.9397280476868086_0.34172438997304905_-0.01164635944348355_-0.1773987252876554_0.4581548705413689_-0.8709901301768792_-0.29230273460413314_0.8205599039051134_0.4911624532129634_2.3303762145087035_-15.044839554151395_-4.371229059279997",
+        "center_match": "new_UM_249_H79D83_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_249_H79D83_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_249_H79D83_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_249_H79D83_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            79,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0031": {
+        "avg_dist": 0.19014427065849304,
+        "max_dist": 0.3802885413169861,
+        "center_xform": "-0.5772747601008991_0.3016060025672679_0.7588067412496035_0.7648223680510203_-0.12577649228399548_0.6318441416342829_0.2860080360396873_0.9451000440186887_-0.15806742269232424_6.849852687358975_2.491644088835244_-2.862824985229196",
+        "center_match": "new_UM_3_H2D6_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_3_H2D6_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_3_H2D6_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            2,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0032": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.340025393451528_0.926880259985732_0.15898338107146862_-0.1808120551494673_0.2303372551164698_-0.9561651267527159_-0.922870376878985_0.29637431156257893_0.24591164048301523_7.681410990485233_-19.34997205322381_0.3927642228018442",
+        "center_match": "new_UM_237_H75D79_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_237_H75D79_15_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            75,
+            79
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0033": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.6378048969002902_-0.6167593813437612_0.46131635459245485_0.4873787197340089_0.14058848015578204_0.8617986207913807_-0.5963781493653577_0.7744951547762892_0.21092737657213442_13.067858810136158_5.687793294777862_1.6066407670121379",
+        "center_match": "new_UM_21_H6D10_22_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_21_H6D10_22_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            6,
+            10
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0034": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.40797774120037095_0.782267539402343_-0.4707564757732466_-0.8807188401954849_0.2013250076719786_-0.42872201460923126_-0.24060026435929618_0.5895131364806738_0.7710938819021685_3.757955115768709_-13.986147463602094_4.584492717220513",
+        "center_match": "new_UM_173_H53D49_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_173_H53D49_10_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            53,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0035": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.5500509619398236_0.6030398697655517_0.577742896747525_0.8308257154817654_-0.4652943702008227_-0.30533551963967837_0.08469102528182985_0.647953751846971_-0.7569566471761423_0.6444964210115813_-13.19390472732394_-6.8257837212736945",
+        "center_match": "new_UM_143_H45D83_13_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_143_H45D83_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            45,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0036": {
+        "avg_dist": 0.051361143589019775,
+        "max_dist": 0.10272228717803955,
+        "center_xform": "0.8461900477440383_-0.5126429732823037_0.14546334604711084_-0.29639179804970806_-0.6796355528076125_-0.6710047819566951_0.44284794811289724_0.524683425795184_-0.7270440134875102_19.597835298928146_-6.1684800518434315_15.269221540278238",
+        "center_match": "new_UM_61_H19D66_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_61_H19D66_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_61_H19D66_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            19,
+            66
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0037": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.06055194451502183_-0.1387305722493199_0.9884772583822182_0.9760106738420474_-0.21571305557393886_0.029513424087143084_0.2091330355583319_0.9665514502489411_0.1484643642758303_9.957432148324415_-12.239239277658669_11.46057105539397",
+        "center_match": "new_UM_185_H56D68_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_185_H56D68_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            68
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0038": {
+        "avg_dist": 0.0879991352558136,
+        "max_dist": 0.2538382112979889,
+        "center_xform": "-0.39394615540139666_0.38207067473834605_0.8359595840406663_-0.9190863317771646_-0.17296535643222682_-0.3540668019098498_0.00931350550838535_-0.9078022829775533_0.41929497210900085_21.575094376077175_-1.180917898698226_4.380224832117079",
+        "center_match": "new_UM_56_H17D13_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_56_H17D13_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_56_H17D13_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_56_H17D13_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            17,
+            13
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0039": {
+        "avg_dist": 0.22055202722549438,
+        "max_dist": 0.35284584760665894,
+        "center_xform": "0.4517233284351992_0.20364922192868087_0.8686040691565221_-0.33942822521953037_-0.8611525407266695_0.378424076301075_0.8250663697374564_-0.4657717209189977_-0.3198783980208891_13.320296198973438_-1.7596408611718175_14.069290359194028",
+        "center_match": "new_UM_52_H15D62_1_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_52_H15D62_17_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_52_H15D62_19_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_52_H15D62_1_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_52_H15D62_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            15,
+            62
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0040": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.07413379303842092_-0.9757304468420711_0.206044354048124_-0.426301109706888_-0.15577670468444227_-0.891067327501313_0.9015384321216775_-0.15389513761983523_-0.4044066542782891_12.687794201415613_3.1317294397947535_-4.098463128838262",
+        "center_match": "new_UM_98_H32D36_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_98_H32D36_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            32,
+            36
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0041": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7179680657868535_0.5189453051076137_0.46391553845182876_0.6959536006505668_0.5476724222302937_0.4644389127430155_-0.013055353376911466_0.6563159972415488_-0.754373163303836_16.97047060536113_-9.918216221033163_-5.3236929311720615",
+        "center_match": "new_UM_263_H81D30_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_11_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0042": {
+        "avg_dist": 0.19480864703655243,
+        "max_dist": 0.5258076190948486,
+        "center_xform": "-0.013217057096489565_-0.9982111680138148_0.05830757630191472_-0.4476419431370231_-0.04623584203557544_-0.8930167622479279_0.8941152051867917_-0.03790397029015222_-0.44623008514669316_21.027063269554617_0.7990619147208804_2.7057398830248047",
+        "center_match": "new_UM_74_H25D29_22_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_74_H25D29_16_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_74_H25D29_22_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_74_H25D29_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            25,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0043": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.34447282825273695_0.7638707476404616_0.5457471497816204_0.8341905391101481_-0.5157293574463633_0.19531864818056152_0.4306560286988691_0.3879751419448975_-0.8148685011571842_9.654823986933593_-14.940078567995073_12.64082078677913",
+        "center_match": "new_UM_185_H56D68_13_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_185_H56D68_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            68
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0044": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.6569909287613184_0.28804392372079834_0.6967019574630657_-0.7443650394234397_-0.394344835753605_-0.5388996554077613_0.11951404774955003_-0.8726527651488817_0.47349080653010517_12.538406606741034_3.061551070500002_-0.10497050419996867",
+        "center_match": "new_UM_29_H10D6_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_29_H10D6_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0045": {
+        "avg_dist": 0.512509822845459,
+        "max_dist": 1.5040332078933716,
+        "center_xform": "-0.5970893900643304_-0.05656665982514159_0.8001777760403204_-0.7658448307216764_-0.2565969316376402_-0.5896097946362792_0.23867541877933907_-0.9648617660941774_0.10989002138562132_20.18263488451811_-13.513042534376808_2.9632489909485287",
+        "center_match": "new_UM_71_H23D74_36_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_71_H23D74_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_71_H23D74_35_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_71_H23D74_36_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            23,
+            74
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0046": {
+        "avg_dist": 0.4886060059070587,
+        "max_dist": 0.9772120118141174,
+        "center_xform": "0.2829998669922664_-0.17456790758801624_-0.9430997407075785_0.798903011175942_-0.5011953133128378_0.3325014836767789_-0.530721258304557_-0.8475430983457939_-0.002375379977930372_13.358996894453355_1.3436155349465366_15.698862387709354",
+        "center_match": "new_UM_37_H11D15_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_37_H11D15_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_37_H11D15_14_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            15
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0047": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.8961483222255944_-0.20647204179283404_0.3927944507374701_0.439461300420728_-0.5357613505228934_0.7209948271093275_0.061578811329670836_0.8187362647664899_0.5708581073712109_10.664923543491113_-7.4640457318443225_-12.76063588244827",
+        "center_match": "new_UM_299_H88D84_22_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_299_H88D84_22_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            88,
+            84
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0048": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7082435501095091_-0.6859398710980418_-0.16696576585121037_-0.20751145856540143_0.4283324459667213_-0.8794716085788251_0.6747814967027024_-0.5882327846781134_-0.4457040752982781_13.80697091378022_0.6168380152006989_14.123066488869597",
+        "center_match": "new_UM_200_H62D11_21_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_200_H62D11_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            62,
+            11
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0049": {
+        "avg_dist": 0.3924407958984375,
+        "max_dist": 0.784881591796875,
+        "center_xform": "0.26239950267896645_-0.07153806374938149_-0.9623039054419454_-0.1914536784272872_-0.9812824211433916_0.020743648946698633_-0.9457758666885575_0.1787934992944441_-0.27118424474802305_11.60802736301099_-0.6396776328693363_15.081877047158144",
+        "center_match": "new_UM_35_H11D58_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_35_H11D58_20_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_35_H11D58_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            58
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0050": {
+        "avg_dist": 0.32169926166534424,
+        "max_dist": 0.6433985233306885,
+        "center_xform": "-0.27148165414546804_0.9530454609934779_-0.1341717583628149_0.7884845374936712_0.3001810035781197_0.536827252683975_0.551896589585252_0.03994639371159629_-0.83295524491632_6.675576991733067_-14.132079304113233_3.925894594828023",
+        "center_match": "new_UM_152_H49D53_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_152_H49D53_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_152_H49D53_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            49,
+            53
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0051": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.24544563709667955_-0.7020236209477809_0.6685202127546871_-0.9122318488604912_0.4005991729152158_0.08575171475962061_-0.3280083736046618_-0.5887980454205088_-0.7387336248975088_20.790372002524236_0.8121080706696944_3.5196649667557978",
+        "center_match": "new_UM_76_H25D13_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_76_H25D13_20_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            25,
+            13
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0052": {
+        "avg_dist": 0.39311161637306213,
+        "max_dist": 0.7988605499267578,
+        "center_xform": "-0.7188483087977701_-0.019944609963138165_0.6948807965917642_0.6685178709051449_0.2542799948769709_0.69887448120948_-0.19063306433837285_0.9669249695497504_-0.16945541608982584_22.918447518234984_0.602974418049314_5.057989937226665",
+        "center_match": "new_UM_43_H13D17_21_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_43_H13D17_21_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_43_H13D17_6_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_43_H13D17_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            13,
+            17
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0053": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.6788588782913726_0.7129496280732299_0.17565150496145085_0.7115125742196384_0.5796265125121728_0.39721903620083415_0.1813848948846712_0.39463392381195395_-0.9007572292712718_21.47423634978503_-13.618520826166105_4.5990148619953715",
+        "center_match": "new_UM_231_H74D23_16_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_231_H74D23_16_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            74,
+            23
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0054": {
+        "avg_dist": 0.286119282245636,
+        "max_dist": 0.572238564491272,
+        "center_xform": "0.05459707011120331_-0.565647239805837_0.8228379913660471_0.28375446245000113_-0.781302718030263_-0.5559221778614648_0.9573414046070415_0.26383567404458647_0.11784808919306011_13.087491649488527_3.453515909233886_-0.3148399422497761",
+        "center_match": "new_UM_23_H10D32_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_23_H10D32_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_23_H10D32_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0055": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.727516464634443_-0.6377742411911665_-0.2529106778268427_0.5996345100300318_-0.7701962334311167_0.21733894356411387_-0.33340403126963725_0.006463689469086508_0.9427618854470107_22.839524211905882_0.530906530565062_5.947153775510486",
+        "center_match": "new_UM_89_H13D25_9_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_89_H13D25_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            13,
+            25
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0056": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.23245032559775258_-0.917397151764373_0.3230314412934368_-0.5244731562204381_-0.1614703640504767_-0.8359756156357545_0.8190816531541107_-0.3637441236199184_-0.44361634099558_5.930627602008428_7.855707488166274_1.8991809041434493",
+        "center_match": "new_UM_28_H7D3_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_28_H7D3_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            7,
+            3
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0057": {
+        "avg_dist": 0.1582045704126358,
+        "max_dist": 0.3164091408252716,
+        "center_xform": "-0.9387276235534423_0.21033208112132576_0.27304004180500513_0.34311536127315506_0.4953856522376529_0.7980381597489358_0.032592907757658156_0.8428246977920423_-0.5372003640688024_17.910736400095914_-16.34377137651063_-0.14023123273456406",
+        "center_match": "new_UM_248_H78D74_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_248_H78D74_4_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_248_H78D74_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            78,
+            74
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0058": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.7571188940597007_-0.4989606796660274_-0.4216743060764219_-0.23939622121706924_0.388662914591124_-0.8897362463609771_0.6078325670156248_0.7745833583086772_0.1748147348093039_11.240489389321056_0.5260508960924994_14.645181690347215",
+        "center_match": "new_UM_200_H62D11_32_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_200_H62D11_32_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            62,
+            11
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0059": {
+        "avg_dist": 0.24075640738010406,
+        "max_dist": 0.4351988434791565,
+        "center_xform": "0.19138338745389194_-0.8691977869507669_-0.4559250005939164_0.40803696432437575_-0.3520116837327794_0.8423737948562755_-0.8926803653893268_-0.34725060356391474_0.2872956379287292_11.407965623257269_2.8666839352364377_-1.7462066183694986",
+        "center_match": "new_UM_114_H36D32_6_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_114_H36D32_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_114_H36D32_18_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_114_H36D32_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            36,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0060": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.10892099702319659_0.22170230061832846_0.969012025884103_-0.7703544758061004_-0.5972589436742123_0.2232391896748255_0.6282437409262279_-0.7707981863637877_0.1057353199518227_17.225161372768582_-9.72300687394025_-3.7939890631619733",
+        "center_match": "new_UM_91_H30D77_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_91_H30D77_12_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            30,
+            77
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0061": {
+        "avg_dist": 0.1560816615819931,
+        "max_dist": 0.3121633231639862,
+        "center_xform": "-0.713469799593985_-0.19092539288457158_0.6741723365870119_0.663738565252603_0.1241547836343677_0.7375884399155939_-0.22452608325923953_0.9737212558286766_0.03814385774524786_22.696970161435047_-6.5226572723429115_-1.7882330940003612",
+        "center_match": "new_UM_93_H30D26_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_93_H30D26_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_93_H30D26_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            30,
+            26
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0062": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.8261250437853261_-0.04859458488523063_0.5613875473775005_0.5559286977840667_-0.23291774789986117_0.797930201015959_0.09198203634843494_0.9712815704177078_0.21943430897675562_20.117764061186847_-1.5712405014231194_-3.280028271997921",
+        "center_match": "new_UM_106_H33D29_2_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_106_H33D29_2_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0063": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.4317008930253786_0.10272591126452114_0.8961482723946773_-0.8577057151101043_-0.354308343483452_-0.37256744893438637_0.2792404792084326_-0.9294691952361228_0.24106382946962246_13.634107020783517_-4.27037350926912_-10.591775764108434",
+        "center_match": "new_UM_104_H33D37_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_104_H33D37_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            37
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0064": {
+        "avg_dist": 0.22206000983715057,
+        "max_dist": 0.44412001967430115,
+        "center_xform": "0.10140747432550544_-0.9725600659568339_-0.20938825720885282_-0.5091643298435169_0.13008018404267538_-0.8507824815629587_0.8546743294178926_0.19288873431453316_-0.4820017912919135_9.29882949881096_6.640561905113088_9.030209384970206",
+        "center_match": "new_UM_40_H11D7_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_40_H11D7_4_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_40_H11D7_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            7
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0065": {
+        "avg_dist": 2.3283064365386963e-10,
+        "max_dist": 4.656612873077393e-10,
+        "center_xform": "0.5116755770663087_-0.787116506044837_-0.3444353491522438_-0.23019799372232522_0.2606383280894554_-0.9375908199299684_0.8277662638209391_0.5590306501816349_-0.04783037358647816_4.792608502460325_-3.14001631270645_14.139341508644705",
+        "center_match": "new_UM_195_H59D55_16_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_195_H59D55_16_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_195_H59D55_17_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            59,
+            55
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0066": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.5237024958049326_0.2531033695869455_-0.8134336974771942_0.8016618716496019_0.17663642578371525_0.5710847718418096_0.2882255010073574_-0.9511773007121691_-0.11039838395089692_2.893275162651207_-10.616862746024538_12.63925441888341",
+        "center_match": "new_UM_166_H52D56_13_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_166_H52D56_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            52,
+            56
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0067": {
+        "avg_dist": 0.004331858828663826,
+        "max_dist": 0.008663717657327652,
+        "center_xform": "-0.8183694642329056_-0.44317191471667283_0.36588259594780576_0.18672495765900488_0.3970687241548551_0.8985934667497193_-0.5435119227748275_0.8037008661836778_-0.2421976620391216_20.76394494494616_-11.84554075413638_4.902591515243884",
+        "center_match": "new_UM_73_H74D70_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_73_H74D70_20_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_73_H74D70_23_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            74,
+            70
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0068": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.7969756216319193_-0.4314627265729328_-0.4226934753490601_-0.23408474145313846_0.4244859021552479_-0.8746519608908808_0.5568071410670244_0.7960223831336_0.2373060749476734_-2.095195065054611_-6.251817131228279_5.6812904517418445",
+        "center_match": "new_UM_169_H52D48_5_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_169_H52D48_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            52,
+            48
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0069": {
+        "avg_dist": 0.6636530160903931,
+        "max_dist": 1.3273060321807861,
+        "center_xform": "0.8042829774180483_0.18613605239487807_-0.5643423271689009_0.5542476355604283_-0.57749783416869_0.5994212291920826_-0.21433257034625872_-0.7948896914222271_-0.5676371444500813_1.5957564484799036_-10.70539340568962_-7.168999050533657",
+        "center_match": "new_UM_130_H43D83_1_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_130_H43D83_1_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_130_H43D83_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            43,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0070": {
+        "avg_dist": 0.5795067548751831,
+        "max_dist": 1.7383553981781006,
+        "center_xform": "-0.39685486253410246_-0.6121001805823632_0.6839880020980469_-0.7346250532272081_-0.23495202719022568_-0.636493186208718_0.5503019618845283_-0.7550701383648025_-0.35642227328801623_16.57953105270917_5.881934262549976_4.80255696512728",
+        "center_match": "new_UM_49_H14D10_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_49_H14D10_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_49_H14D10_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_49_H14D10_17_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_49_H14D10_6_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_49_H14D10_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            14,
+            10
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0071": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.5632882664452192_-0.31903381371221734_-0.762183543900928_-0.7732976639227154_0.12139163862141378_-0.6223140630296566_0.2910619381795065_0.93993696372738_-0.17832961717601217_7.27030900863673_5.247649214731382_9.853868815752719",
+        "center_match": "new_UM_40_H11D7_9_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_40_H11D7_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            7
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0072": {
+        "avg_dist": 0.029072074219584465,
+        "max_dist": 0.07756402343511581,
+        "center_xform": "0.10016280540488619_0.9337139524288303_-0.3437232425268258_0.9026416253198475_0.060058573578846794_0.4261819611147546_0.4185755710183848_-0.3529464871328319_-0.8367934443859052_-0.1056715260654073_-13.96530190067378_0.26369746229158864",
+        "center_match": "new_UM_142_H45D49_5_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_142_H45D49_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_142_H45D49_5_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_142_H45D49_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            45,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0073": {
+        "avg_dist": 0.6567265391349792,
+        "max_dist": 1.1248955726623535,
+        "center_xform": "-0.7391895060051397_-0.6197470096327437_0.2636522676996153_0.6208440887349909_-0.7787581675391531_-0.08993516539084566_0.2610584066730975_0.09720782140513141_0.960416132602411_13.82276422676108_3.786982801668387_-0.30850995322768426",
+        "center_match": "new_UM_18_H6D32_28_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_18_H6D32_28_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_18_H6D32_37_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_18_H6D32_42_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            6,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0074": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.1366703645997674_-0.901840083743386_0.40988495311964_-0.905022337061799_-0.05457676828282582_-0.42184824970953966_0.40280985695407956_-0.42860919229237865_-0.8087263934255569_11.255901240310209_6.126652358967647_0.6400899473813411",
+        "center_match": "new_UM_29_H10D6_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_29_H10D6_11_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0075": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.5897635270724927_0.797491975476999_-0.12722236904258152_0.5722900805948148_-0.3015672979582931_0.7625885053257195_0.5697921075162359_-0.5225549864386785_-0.6342501402130541_4.231825291963048_-17.569192567932447_-3.3878480203826484",
+        "center_match": "new_UM_252_H83D79_1_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_252_H83D79_1_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            83,
+            79
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0076": {
+        "avg_dist": 0.2631758749485016,
+        "max_dist": 0.7308565378189087,
+        "center_xform": "0.648055389726248_-0.23338910752497208_-0.7249508509791945_0.5720901653880159_-0.47916301332692485_0.6656693243088302_-0.5027296037762982_-0.8461278456286369_-0.17700456022026057_4.2330837232767635_-5.453385181179186_15.616145659458539",
+        "center_match": "new_UM_178_H55D59_6_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_178_H55D59_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_178_H55D59_5_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_178_H55D59_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            55,
+            59
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0077": {
+        "avg_dist": 0.4124867618083954,
+        "max_dist": 0.7794065475463867,
+        "center_xform": "0.9980943048524956_0.004839455649995931_-0.06151697562482805_-0.058812069096203366_0.37637414374975375_-0.9245991804264504_0.01867884229917271_0.9264551168759614_0.37594150777043894_0.4820355602047357_-10.660226263671973_-9.85325624989099",
+        "center_match": "new_UM_273_H83D87_21_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_273_H83D87_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_18_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_21_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_22_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_273_H83D87_38_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            83,
+            87
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0078": {
+        "avg_dist": 0.5806509852409363,
+        "max_dist": 1.1613019704818726,
+        "center_xform": "-0.34645088537827473_-0.362810372096402_0.8650667129880103_-0.48451849565025057_-0.7204372525832902_-0.4961975337131963_0.8032518978461413_-0.5910488972915108_0.07380778832251655_15.456440094613868_-9.798600001096645_-6.327317648112924",
+        "center_match": "new_UM_95_H30D81_23_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_95_H30D81_23_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_95_H30D81_26_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            30,
+            81
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0079": {
+        "avg_dist": 0.5705100893974304,
+        "max_dist": 1.6498501300811768,
+        "center_xform": "-0.4730632687940209_-0.554440326536038_0.6846948722084372_-0.619373987841828_-0.3434051763564046_-0.7060090282967618_0.6265676395273116_-0.7580691321787467_-0.18095354081900294_19.075676753685798_-0.8631938086989521_-4.696762165312904",
+        "center_match": "new_UM_86_H29D33_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_86_H29D33_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_86_H29D33_3_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_86_H29D33_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            29,
+            33
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0080": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.9681000826097667_-0.17926815325500303_0.17505758846592154_0.15841387205502946_0.10339945058478126_0.9819437859466797_-0.1941321075749603_0.9783514107146297_-0.07170245435965197_14.768902700957312_-13.236012420265325_-10.279199882298172",
+        "center_match": "new_UM_292_H85D81_18_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_292_H85D81_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            85,
+            81
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0081": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.9668438299110441_0.09903025678993663_0.23538482704512523_0.24482740237408812_0.09736701474379199_0.9646653344485013_0.07261233786141756_0.990309382304339_-0.11838401796821227_21.372848733648652_-13.872753760537933_5.357120505276626",
+        "center_match": "new_UM_73_H74D70_16_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_73_H74D70_16_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            74,
+            70
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0082": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.06621035015719473_0.9883455090308869_0.13707422919914075_-0.5999127600324528_0.14920376296507595_-0.7860298451504921_-0.7973210582207814_-0.030189267886758134_0.6027999155790876_4.686387723561211_-14.598982986845897_2.490069046078986",
+        "center_match": "new_UM_173_H53D49_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_173_H53D49_3_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            53,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0083": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.2060236379640873_-0.9168324947297808_0.3420123348764038_-0.4398610840460447_-0.22544206723593077_-0.8693089790530342_0.8741146877509159_-0.3295361147552064_-0.3568325401783901_12.570296042738107_-0.1350779232815853_13.528466888474966",
+        "center_match": "new_UM_197_H62D58_13_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_197_H62D58_13_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            62,
+            58
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0084": {
+        "avg_dist": 0.0052358005195856094,
+        "max_dist": 0.010471601039171219,
+        "center_xform": "-0.586258328775503_-0.8094081060542666_-0.03405421846114625_0.45557414416466974_-0.36415090343957907_0.8123092506507406_-0.6698905665181315_0.4607088423047505_0.5822319052681959_22.137153059144623_0.34117907225635236_4.454587778533281",
+        "center_match": "new_UM_84_H29D25_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_84_H29D25_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_84_H29D25_17_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            29,
+            25
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0085": {
+        "avg_dist": 0.4941565692424774,
+        "max_dist": 1.4824696779251099,
+        "center_xform": "-0.0073347858411171645_0.9505606560823232_-0.3104523152192754_0.5977172494320522_0.25306236696339207_0.7607190862324064_0.8016734314220766_-0.1799829923499125_-0.570022659037976_13.268060812546196_-19.99358078199404_6.99084671470186",
+        "center_match": "new_UM_235_H75D71_18_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_235_H75D71_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_235_H75D71_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_235_H75D71_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            75,
+            71
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0086": {
+        "avg_dist": 0.5143418312072754,
+        "max_dist": 1.0286836624145508,
+        "center_xform": "0.16384519234675307_0.9491084801210039_-0.26897554890222614_0.7158006340758707_0.073237702091806_0.6944535198621244_0.6788108758715033_-0.3063157389928079_-0.6673728064911342_8.433133624580535_-19.592841358953564_1.5816816218347753",
+        "center_match": "new_UM_256_H79D75_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_256_H79D75_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_256_H79D75_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            79,
+            75
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0087": {
+        "avg_dist": 0.46447739005088806,
+        "max_dist": 0.9289547801017761,
+        "center_xform": "0.1951448257529599_0.9659161753914854_-0.17007186451301035_0.976749375759307_-0.17570572865879794_0.12283384659891228_0.08876459843682695_-0.19008797708841457_-0.977746085152369_9.51639392074577_-14.61013693738451_13.86692422334771",
+        "center_match": "new_UM_185_H56D68_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_185_H56D68_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_185_H56D68_15_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            68
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0088": {
+        "avg_dist": 0.02779625542461872,
+        "max_dist": 0.05559251084923744,
+        "center_xform": "-0.07249050031692124_0.9788855606985133_0.1911234847415654_-0.7109241759459918_0.08368786504413846_-0.6982715498284796_-0.6995226539714887_-0.18649235989796237_0.6898468353775163_16.47563575000771_-19.516427832289708_10.445101928659994",
+        "center_match": "new_UM_213_H67D71_13_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_213_H67D71_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_213_H67D71_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            67,
+            71
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0089": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7920806803325217_0.6103477238232917_-0.009157066544291438_0.10018331161388856_0.1447818740726026_0.984378744698452_0.6021391034620193_0.7787900005545473_-0.17582558152386127_17.14217700372228_-18.000758949188054_0.7924946853348445",
+        "center_match": "new_UM_248_H78D74_2_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_248_H78D74_2_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            78,
+            74
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0090": {
+        "avg_dist": 0.007196254562586546,
+        "max_dist": 0.0215887613594532,
+        "center_xform": "-0.6132217634133871_-0.7046383567946876_0.3569927940587298_0.6321926606023303_-0.1668385842821043_0.7566355309363223_-0.47359424485177487_0.6896735988338437_0.5477762484033525_17.03657888615089_6.797029257422025_6.983347057801566",
+        "center_match": "new_UM_31_H10D14_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_31_H10D14_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_31_H10D14_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_31_H10D14_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            14
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0091": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7200298098508608_0.6729922221238421_0.16922925836552705_-0.2359032622919192_-0.008038702216055226_-0.9717432943461519_-0.6526152953817153_-0.7396058735755786_0.16454916592417648_16.941564700269396_-17.693399788643234_12.186925388539478",
+        "center_match": "new_UM_213_H67D71_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_213_H67D71_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            67,
+            71
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0092": {
+        "avg_dist": 0.15212294459342957,
+        "max_dist": 0.4538308382034302,
+        "center_xform": "-0.29615164653995557_-0.9286639443298043_-0.22333266835257942_0.6412004928808351_-0.3666020326389858_0.6741401023484203_-0.707923816650526_0.05644668428503267_0.7040295744158611_13.287638595528847_2.99275628671694_-2.5612074033408305",
+        "center_match": "new_UM_114_H36D32_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_114_H36D32_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_114_H36D32_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_114_H36D32_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            36,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0093": {
+        "avg_dist": 0.38247400522232056,
+        "max_dist": 0.7862451672554016,
+        "center_xform": "-0.33247249553849223_-0.3011681297272945_0.8937336277364589_-0.9332732296114635_-0.03146949805416486_-0.35778589908324726_0.13587905872869432_-0.9530516399066643_-0.27060941053522425_13.335562543841718_-2.78183651078902_-10.673646390363814",
+        "center_match": "new_UM_104_H33D37_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_104_H33D37_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_104_H33D37_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_104_H33D37_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_104_H33D37_8_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_104_H33D37_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            37
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0094": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.474786191578885_-0.8800485627791929_-0.00962286008914735_-0.7856265796658659_0.41886654714248855_0.4553478813033418_-0.39669755432638_0.22375286106596814_-0.8902615950136583_12.020665679754813_4.852352658872803_0.2731762974589458",
+        "center_match": "new_UM_100_H32D6_17_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_100_H32D6_17_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            32,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0095": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7199684639015905_-0.23205396459614314_0.654061440923096_0.6938265307826181_-0.2621503509298991_0.6707323897721714_0.01581632603802715_0.9367113488276646_0.3497451826803566_13.492372261532807_4.569614228239232_1.0027849028044358",
+        "center_match": "new_UM_21_H6D10_18_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_21_H6D10_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            6,
+            10
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0096": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.017115712851968137_0.9191625739185416_-0.3935063088198342_0.47839343975184906_0.33806308639272475_0.8104647225024784_0.8779787976801964_-0.2021225181073761_-0.4339351547155064_5.4867854321597065_-14.188580857333164_5.122141727476972",
+        "center_match": "new_UM_152_H49D53_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_152_H49D53_12_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            49,
+            53
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0097": {
+        "avg_dist": 0.018366750329732895,
+        "max_dist": 0.03673350065946579,
+        "center_xform": "0.42636589535013225_0.7063975551522662_-0.5649908117458031_0.6722589477963808_0.17045088540351058_0.7204265422462325_0.6052107322164597_-0.686985436337671_-0.4022076327843076_-1.0033485969087792_-13.23119077869319_1.4716899031067214",
+        "center_match": "new_UM_142_H45D49_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_142_H45D49_7_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_142_H45D49_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            45,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0098": {
+        "avg_dist": 0.17215979099273682,
+        "max_dist": 0.34431958198547363,
+        "center_xform": "0.40553894886026337_0.6008470847781554_-0.6888548044914149_0.8938379049030644_-0.10296058468064334_0.43640911741245847_0.19129025253737705_-0.7927054299774994_-0.5788144267106464_3.456015496013208_-12.177171561940725_11.799094484000904",
+        "center_match": "new_UM_166_H52D56_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_166_H52D56_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_166_H52D56_18_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            52,
+            56
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0099": {
+        "avg_dist": 0.2772933840751648,
+        "max_dist": 0.5545867681503296,
+        "center_xform": "-0.2257971413639054_-0.045408852863001524_0.9731154541130026_0.5667326753457815_0.8063556079894131_0.16912926464523184_-0.7923570695382869_0.5896852292076596_-0.15633811053933183_17.21484485773192_-9.79331445972278_-4.8992512098488845",
+        "center_match": "new_UM_239_H77D30_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_239_H77D30_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_239_H77D30_33_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            77,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0100": {
+        "avg_dist": 1.0761409997940063,
+        "max_dist": 1.8614206314086914,
+        "center_xform": "0.4248923804768979_0.9023641957785151_0.07214792574751414_-0.4255118787612567_0.26943255292953694_-0.8639130398685612_-0.7990031952662897_0.3363702686012334_0.4984465230648051_6.558428834264362_-18.599504439279485_0.7541994690496665",
+        "center_match": "new_UM_237_H75D79_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_237_H75D79_11_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_237_H75D79_12_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_237_H75D79_13_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_237_H75D79_22_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            75,
+            79
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0101": {
+        "avg_dist": 0.22877514362335205,
+        "max_dist": 0.4575502872467041,
+        "center_xform": "0.14430416748971162_-0.9816455244654799_0.12469310944071621_-0.4644548692867608_-0.17846077202602256_-0.8674292058973426_0.8737608263368869_0.06725932756703018_-0.4816826768883346_11.628740355907269_0.19532011515485692_14.011606645474671",
+        "center_match": "new_UM_197_H62D58_18_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_197_H62D58_18_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_197_H62D58_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            62,
+            58
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0102": {
+        "avg_dist": 0.37821218371391296,
+        "max_dist": 0.7564243674278259,
+        "center_xform": "-0.17147701189931308_-0.9246655039317965_-0.3399843235042461_0.34490811662531756_-0.3796013810423272_0.8584527841394278_-0.9228401949828905_0.0299415655788927_0.3840175480035069_21.005633232982973_0.45747300303577276_5.261749227480777",
+        "center_match": "new_UM_84_H29D25_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_84_H29D25_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_84_H29D25_16_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            29,
+            25
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0103": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.06779547523767752_-0.880240100430261_-0.4696606638114599_0.87443301349951_-0.2790840494883968_0.3968362360260517_-0.4803859681958493_-0.38378308836591796_0.7886316393886662_9.951474262576085_5.967754915577132_10.736540703079754",
+        "center_match": "new_UM_26_H7D11_12_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_26_H7D11_12_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            7,
+            11
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0104": {
+        "avg_dist": 0.7962185144424438,
+        "max_dist": 1.5924370288848877,
+        "center_xform": "-0.2950881764150279_-0.9507254804320208_-0.09510009988089715_0.6574361218840724_-0.274259334359221_0.701825878091474_-0.6933258352189716_0.14457827767040338_0.7059719596724612_5.802957123548822_7.7293306199572385_4.693988793088849",
+        "center_match": "new_UM_10_H3D7_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_10_H3D7_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_10_H3D7_12_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            3,
+            7
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0105": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.3151759427686496_-0.7995912974132698_-0.5111926077329921_-0.12131687626051241_0.5002811925236206_-0.8573219604918192_0.9412472260964623_0.3322235474919079_0.06067267801578801_12.00493659920545_1.1157138361834313_14.765855135575663",
+        "center_match": "new_UM_200_H62D11_9_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_200_H62D11_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            62,
+            11
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0106": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.21096238876077258_0.9088423891195729_-0.35986161544095807_0.473050314144485_0.22724231559267807_0.8512251936426002_0.8554053254546367_-0.34980915045708083_-0.38198859595587736_12.692346838864239_-20.038771409367314_7.332596956406249",
+        "center_match": "new_UM_235_H75D71_17_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_235_H75D71_17_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            75,
+            71
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0107": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.8271189457669168_-0.516109677902955_0.22249730319339206_0.44883517755364555_-0.3683054181442003_0.814185545410881_-0.33826207730665236_0.773292906562923_0.5362805680944018_19.709473886803323_-1.013686002823249_-3.154656366880232",
+        "center_match": "new_UM_106_H33D29_11_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_106_H33D29_11_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0108": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.43685520167887415_-0.7770743343239656_-0.45311478865854304_-0.5201206085401902_0.19277235151541583_-0.8320537080399317_0.7339155846130349_0.5991613300490805_-0.31995877115016647_8.420524404995604_6.219505374040807_9.40209990625226",
+        "center_match": "new_UM_40_H11D7_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_40_H11D7_14_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            7
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0109": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.15242089194613453_-0.9874376062232293_0.041651476738329515_-0.5908581853400647_-0.1248259821899753_-0.7970602731205177_0.7922464745992821_0.0968785218015157_-0.6024616796930431_5.215286741525176_8.121199729768477_2.93751530257785",
+        "center_match": "new_UM_28_H7D3_5_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_28_H7D3_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            7,
+            3
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0110": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7303796748741648_-0.29412064964560103_0.6164726871344417_0.6194835005634459_0.09494757646242849_0.7792465272643637_-0.2877250824317693_0.9510404834579655_0.11285510960373304_15.129535032816023_-3.0706984919798685_-9.864935400809543",
+        "center_match": "new_UM_120_H37D33_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_120_H37D33_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            37,
+            33
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0111": {
+        "avg_dist": 0.4871786832809448,
+        "max_dist": 0.9743573665618896,
+        "center_xform": "0.7238801329072291_0.6213206967964237_0.2999302334120706_0.6778354745508826_-0.7215035188559639_-0.14132141281080504_0.12859480013823502_0.305603115185151_-0.9434352724837775_0.4889372694382814_-12.770402983406086_-7.18825389006048",
+        "center_match": "new_UM_130_H43D83_22_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_130_H43D83_22_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_130_H43D83_40_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            43,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0112": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.42388977811468626_0.8502674312546532_0.3120300488053923_-0.6002636066554357_-0.0057508146295250015_-0.7997815518353154_-0.6782337786743524_-0.5263195070284876_0.5128223064438592_5.39561863784553_-14.277786444875375_2.2184327236741552",
+        "center_match": "new_UM_173_H53D49_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_173_H53D49_4_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            53,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0113": {
+        "avg_dist": 0.7200720906257629,
+        "max_dist": 1.4401441812515259,
+        "center_xform": "-0.9562953419262543_0.29016876144885756_0.03607365921811431_0.19484019050133292_0.5403620505035152_0.8185634700748875_0.21802871181464373_0.789817032137743_-0.5732822486084624_17.41998620304662_-16.761042110421954_-0.21430132600541185",
+        "center_match": "new_UM_248_H78D74_10_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_248_H78D74_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_248_H78D74_15_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            78,
+            74
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0114": {
+        "avg_dist": 0.7608102560043335,
+        "max_dist": 1.521620512008667,
+        "center_xform": "0.8800170961310415_0.13745466849941165_-0.4546164588142474_0.463540826740517_-0.4570490705142128_0.7591021335016868_-0.10343989782384416_-0.8787561443596347_-0.46592684649886995_1.1183076082383536_-11.386744400633916_-7.245454440405382",
+        "center_match": "new_UM_278_H87D83_4_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_278_H87D83_4_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_278_H87D83_5_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            87,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0115": {
+        "avg_dist": 0.34873950481414795,
+        "max_dist": 1.0462185144424438,
+        "center_xform": "-0.5010479286093578_0.12070968356547547_0.8569598272555108_0.8004011853167767_0.44120051428202883_0.4058325378044149_-0.3291031992852252_0.8892532139333521_-0.31767877758741403_21.078483297359583_-12.585381043674403_3.6859728523764375",
+        "center_match": "new_UM_231_H74D23_34_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_231_H74D23_34_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_231_H74D23_38_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_231_H74D23_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            74,
+            23
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0116": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.7882608668855412_0.5013013084029659_-0.3568498338661937_-0.5603548444720903_0.3451669731821223_-0.7529025228414048_-0.2542582427641529_0.7934461284912584_0.5529882342045973_1.8143223720020956_-10.935910840651445_11.113560744233965",
+        "center_match": "new_UM_182_H56D52_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_182_H56D52_15_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            52
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0117": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.5595930775585795_-0.10494106153659737_0.822096686012108_0.7108604989763888_0.44918225960768565_0.5412140506756767_-0.4260668240353358_0.8872556966609491_-0.17676082767156434_16.699888210026188_-9.326338778422382_-5.5828902696294875",
+        "center_match": "new_UM_263_H81D30_8_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_8_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0118": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.1006082414842912_0.057645073580858915_0.9932547645177929_-0.3512927593983546_-0.9319616652566187_0.08967079617355833_0.930844444007552_-0.35794482812853623_-0.07351272730829887_10.638006222047352_-6.684353440487001_-11.60328745237021",
+        "center_match": "new_UM_117_H37D84_6_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_117_H37D84_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            37,
+            84
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0119": {
+        "avg_dist": 0.2242627888917923,
+        "max_dist": 0.5043067336082458,
+        "center_xform": "-0.278035129325976_-0.37230904144716537_0.8854842994189007_0.5697319419437_0.6782638595909517_0.46407289416841213_-0.7733705329205067_0.6335172566153812_0.023535173268384998_15.813183087195_-8.124751944924895_-5.989441750638278",
+        "center_match": "new_UM_263_H81D30_37_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_22_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_26_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_36_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_37_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_263_H81D30_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0120": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.7645244832057941_0.5109684641064057_-0.39295488706422066_0.6013746141750375_-0.3459365294824938_0.7201919820405063_0.23205794105080382_-0.7869174964749154_-0.5717604093822107_3.585359950292343_-16.81551682839259_-2.955093538432976",
+        "center_match": "new_UM_252_H83D79_16_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_252_H83D79_16_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            83,
+            79
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0121": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.2147431030919886_-0.06727119946741009_-0.974351058600872_-0.29451887558352874_-0.9467244386936344_0.13027459117278803_-0.9312056870527787_0.31494034816523425_0.18348990571179516_12.243921881650579_-0.7078304014984838_15.263850565265429",
+        "center_match": "new_UM_35_H11D58_29_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_35_H11D58_29_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            11,
+            58
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0122": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.4696063139962164_-0.45053964797512447_0.7592653919792066_-0.11637709019919326_-0.8208980019123511_-0.5590910867945205_0.8751721446273619_-0.3509138014652034_0.33306639159420454_22.367452543796503_-6.541314487205426_14.620615495952578",
+        "center_match": "new_UM_61_H19D66_2_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_61_H19D66_2_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            19,
+            66
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0123": {
+        "avg_dist": 0.11392638832330704,
+        "max_dist": 0.22785277664661407,
+        "center_xform": "-0.47288217608480143_-0.6733458588264176_0.5683201579590659_0.7346409358582653_-0.6574193682551395_-0.16763791219263485_0.48650297316932734_0.3382382719981989_0.8055493333453125_13.520762996305734_3.6756618628721753_-1.3378844746672627",
+        "center_match": "new_UM_18_H6D32_24_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_18_H6D32_24_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_18_H6D32_33_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            6,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0124": {
+        "avg_dist": 0.17786367237567902,
+        "max_dist": 0.35572734475135803,
+        "center_xform": "-0.3662806961348993_-0.9273796857521484_-0.07619297929061522_0.3526983581578574_-0.21414220084884228_0.9109044878407211_-0.861070449958472_0.30677359121974734_0.4055214469525058_12.513088541758066_0.1899138190847225_16.103055917664946",
+        "center_match": "new_UM_189_H58D62_27_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_189_H58D62_27_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_189_H58D62_31_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            58,
+            62
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0125": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.5511715515207396_-0.10807171917099417_0.8273635381799507_-0.7370675397078984_-0.4016874593639805_-0.5434874671035721_0.39107718253967017_-0.9093776380058707_0.1417425440427019_12.478323065863833_3.6248409861494792_-0.3133054245645752",
+        "center_match": "new_UM_29_H10D6_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_29_H10D6_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            6
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0126": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.6156807776985312_0.40669078477011733_-0.6749368752376762_-0.3689276610106948_0.6080810321583596_0.7029436956616099_0.6962970349740907_0.6817918039345224_-0.22434432280314145_5.1183770434781195_-14.39397423949788_0.9515939435867153",
+        "center_match": "new_UM_253_H79D49_7_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_253_H79D49_7_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            79,
+            49
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0127": {
+        "avg_dist": 0.13808126747608185,
+        "max_dist": 0.5523250699043274,
+        "center_xform": "0.5044441245474901_0.8602109115230074_0.07465462414528057_0.8592233307948015_-0.508637106468919_0.0549869233619501_0.08527246347680909_0.03640716440046352_-0.9956922844699132_9.113251516952971_-14.820633275084049_13.437873533942366",
+        "center_match": "new_UM_185_H56D68_21_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_185_H56D68_10_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_185_H56D68_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_185_H56D68_20_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_185_H56D68_21_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            56,
+            68
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0128": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.608085299231541_-0.06189634916710442_0.7914550592536961_0.49319040549414134_0.7517754487509025_0.4377178298674886_-0.6220896179707646_0.6565078191576724_-0.42661691316428774_16.33577683993292_-8.624672840861592_-5.762867552184076",
+        "center_match": "new_UM_263_H81D30_29_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_29_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0129": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.3013651156834003_-0.6755303500939617_0.6729322500453228_-0.7924333874402105_-0.2150708387739335_-0.5707835498497744_0.5303097147131702_-0.7052682329518367_-0.4704979554363969_18.516277817633636_-0.15033152247480075_-4.157468005115575",
+        "center_match": "new_UM_86_H29D33_6_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_86_H29D33_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            29,
+            33
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0130": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.8690084014460726_0.44572532916517554_0.21483325896317224_0.4618353111854931_0.5748530061603981_0.6754644081301041_0.17757405091493628_0.6862018305491098_-0.7054037880481726_16.425149058759757_-9.926934280824867_-4.528089131378593",
+        "center_match": "new_UM_263_H81D30_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_263_H81D30_20_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            81,
+            30
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0131": {
+        "avg_dist": 0.0028154663741588593,
+        "max_dist": 0.008446398191154003,
+        "center_xform": "0.9073674850339971_0.15945237408806875_-0.3889205413715734_0.36193804951398056_-0.7668710897991715_0.5300090376061968_-0.21374072007246164_-0.6216781096579722_-0.7535457733641638_0.9738016783663284_-11.925253907911781_-8.113016857066654",
+        "center_match": "new_UM_278_H87D83_19_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_278_H87D83_19_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_278_H87D83_20_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_278_H87D83_9_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            87,
+            83
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0132": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.37445293860025974_-0.924410647557223_-0.07245654874796179_0.21954396661606723_-0.16430787959737952_0.9616669732421389_-0.9008803713568819_0.34419162596589814_0.2644743486972564_18.49432081294958_0.5221092784572079_-2.632877811264393",
+        "center_match": "new_UM_106_H33D29_3_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_106_H33D29_3_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0133": {
+        "avg_dist": 0.48320478200912476,
+        "max_dist": 0.6897611021995544,
+        "center_xform": "0.2593556993876378_-0.6442941430646321_0.7194579059317934_0.020221896143806872_-0.7411625442588792_-0.6710209817167073_0.9655701404411274_0.18858191907050942_-0.17919588077906673_12.206107331553596_3.3596044896738135_-0.3456348992165914",
+        "center_match": "new_UM_23_H10D32_15_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_23_H10D32_14_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_23_H10D32_15_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_23_H10D32_19_test_scaffold_ZNX_HD_1.pdb",
+            "new_UM_23_H10D32_23_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0134": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.16159135212769704_-0.5827426092533811_0.7964290842743657_-0.025866819029367313_-0.8042569736904266_-0.5937184753261586_0.9865186985510436_-0.11654085820379845_0.11488727422250722_13.26793890201293_3.5098518095530835_-0.39952793072278325",
+        "center_match": "new_UM_23_H10D32_20_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_23_H10D32_20_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            10,
+            32
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0135": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.959333661952693_-0.2633789466899099_0.10154041306273028_0.18807761110161578_0.3281680790927814_-0.9257064999592818_0.21048928059819497_0.9071588848184575_0.3643583681599569_0.6935817965575097_-11.116917991032437_-9.607533121053763",
+        "center_match": "new_UM_273_H83D87_16_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_273_H83D87_16_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            83,
+            87
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0136": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.6253708228260599_-0.6740092686924146_0.3932211078700803_-0.38903681530770656_-0.7061274476530617_-0.5916370373854312_0.6764330641631102_0.21701505336655535_-0.7038059223388343_19.600447854769016_-6.042510988877183_15.353826325765823",
+        "center_match": "new_UM_61_H19D66_14_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_61_H19D66_14_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            19,
+            66
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0137": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "-0.7970898489861612_-0.36293223060296836_0.48262611681587747_0.5633723761359314_-0.15921843521842055_0.8107163842513317_-0.21739213060774237_0.9181120225093186_0.3313773916151715_20.17572531008898_-0.9770363246191778_-3.3431780138379423",
+        "center_match": "new_UM_106_H33D29_1_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_106_H33D29_1_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            33,
+            29
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    },
+    "Zn_Cluster0138": {
+        "avg_dist": 0.0,
+        "max_dist": 0.0,
+        "center_xform": "0.2760239654312544_-0.5959718904873839_0.7540744500753886_-0.5266045670305873_-0.7500911456066272_-0.4000636240213115_0.8040512424529506_-0.28667190136361714_-0.5208846517977231_22.98911892340078_0.9338547384903109_5.974045484689071",
+        "center_match": "new_UM_54_H17D25_6_test_scaffold_ZNX_HD_1.pdb",
+        "descriptions": [
+            "new_UM_54_H17D25_6_test_scaffold_ZNX_HD_1.pdb"
+        ],
+        "residue_index": [
+            17,
+            25
+        ],
+        "cluster_token": 1,
+        "matching_clusters": [
+            1
+        ]
+    }
+}
